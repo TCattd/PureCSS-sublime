@@ -4,7 +4,7 @@ PureCSS-sublime
 Adds autocomplete for PureCSS (purecss.io) classes
 
 ## Installation
-Install through Package Control. Search for "PureCSS sublime".
+Install through Package Control. Search for "PureCSS".
 
 ## Usage
 Simply start typing any PureCSS class to get autocompletion.
