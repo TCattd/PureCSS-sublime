@@ -1,7 +1,9 @@
-PureCSS-sublime
+PureCSS completions for Sublime Text
 ===============
 
-Adds autocomplete for PureCSS (purecss.io) classes
+Adds autocomplete for PureCSS (purecss.io) classes.
+
+Read more about PureCSS at http://purecss.io
 
 ## Installation
 Install through Package Control. Search for "PureCSS".
@@ -13,6 +15,6 @@ Simply start typing any PureCSS class to get autocompletion.
 
 ## License
 
-This bundle is licensed under MIT.
+This package is licensed under MIT.
 
 * [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
