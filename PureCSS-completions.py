@@ -11,7 +11,7 @@ purecss_classes.extend(["pure-g", "pure-u-", "pure-u-sm-", "pure-u-md-", "pure-u
 purecss_classes.extend(["pure-form", "pure-form-stacked", "pure-form-aligned", "pure-group", "pure-input-", "pure-input-rounded", "pure-checkbox", "pure-radio"])
 
 #Buttons
-purecss_classes.extend(["pure-button", "pure-button-disabled", "pure-button-active", "pure-button-primary"])
+purecss_classes.extend(["pure-button", "pure-button-disabled", "pure-button-active", "pure-button-primary", "pure-button-group"])
 
 #Tables
 purecss_classes.extend(["pure-table", "pure-table-bordered", "pure-table-horizontal", "pure-table-odd", "pure-table-striped"])
